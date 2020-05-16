@@ -1,10 +1,10 @@
 # UK-accidents---Big-data-analysis
 This is a big data project for applying data visualization , time series and classification models on kaggle UK accidents datsaets dataset 
-*Objective
-*Datasets
+* Objective
+* Datasets
 
 # Objective
-This project is divided for 3 parts 
+This project is divided to 3 parts 
 - Visualizing the data using ggplot to see the frequency of the attributes affecting the accidents
 - Predicting the severity of the accident using 3 built-in models 
    1. naive bayes classifier using libraries e1071 and caret
