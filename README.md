@@ -7,9 +7,9 @@ This is a big data project for applying data visualization , time series and cla
 This project is divided for 3 parts 
 - Visualizing the data using ggplot to see the frequency of the attributes affecting the accidents
 - Predicting the severity of the accident using 3 built-in models 
-   1-naive bayes classifier using libraries e1071 and caret
-   2-Neural networks using library nnet
-   3-Random forest using library randomForest
+   1. naive bayes classifier using libraries e1071 and caret
+   2. Neural networks using library nnet
+   3. Random forest using library randomForest
 
 - Forecasting the number of accidents in the next few months 
 
