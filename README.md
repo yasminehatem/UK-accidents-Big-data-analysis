@@ -11,7 +11,7 @@ This project is divided to 3 parts
    2. Neural networks using library nnet
    3. Random forest using library randomForest
 
-- Forecasting the number of accidents in the next few months 
+- Forecasting the number of accidents in the next few months using libraries : forecast and TSPred 
 
 # Datasets
 This project was built using [Kaggle UK accidents datasets](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales?fbclid=IwAR0dGYRO__sdeIfxN0T-2pLgnHB2wYj1A3IY23ix5siPDjMO4-GvUYDP5QU)
